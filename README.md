@@ -6,6 +6,6 @@ This indicator uses either Open-to-Close or Close-to-Close comparison for its ca
 
 ![Gain/Loss Info indicator displays some huge changes on the daily chart of the EUR/NZD currency pair](https://github.com/EarnForex/Gain-Loss-Info/blob/main/README_Images/gain-loss-info-demonstration-eurnzd.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Gain-Loss-Info/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Gain-Loss-Info/
 
 Any contributions to the code are welcome!
